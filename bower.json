@@ -1,0 +1,11 @@
+{
+  "name": "include",
+  "version": "0.2.0",
+  "description": "resource loader",
+  "keywords": [
+    "resource loader"
+  ],
+  "main": "include.js",
+  "license": "MIT",
+  "dependencies": {}  
+}
